@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+    <title>Learning HTML</title>
+
+    <style>
+        body {
+            background: lightblue;
+        }
+
+        h1 {text-align: center;}
+      
+    </style>
+
+
+<div class="tab">
+    <button class="tablinks" onclick="London">London</button>
+    <button class="tablinks" onclick="Paris">Paris</button>
+    <button class="tablinks" onclick="Tokyo">Tokyo</button>
+  </div>
+</head>
