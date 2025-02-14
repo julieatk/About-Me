@@ -48,3 +48,27 @@
   margin-right: auto;
 
 }
+
+#beijing {
+  position: absolute;
+  bottom: -400px;
+  right: 800px;
+}
+
+#sanfran {
+  position: absolute;
+  bottom: -400px;
+  right: 150px;
+}
+
+#sf {
+  position: absolute;
+  bottom: -450px;
+  right: 130px;
+}
+
+#bei {
+  position: absolute;
+  bottom: -450px;
+  right: 890px;
+}
