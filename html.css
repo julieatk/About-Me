@@ -72,3 +72,34 @@
   bottom: -450px;
   right: 890px;
 }
+
+#tennisteam {
+  position: absolute;
+  bottom: 300px;
+  right: 800px;
+}
+
+#tennis {
+  position: absolute;
+  bottom: 300px;
+  right: 200px;
+}
+
+#tennistext {
+  position: absolute;
+  bottom: 240px;
+  right: 200px;
+}
+
+#hiking {
+  position: absolute;
+  bottom: -320px;
+  right: 400px;
+}
+
+#hikingtext {
+  position: absolute;
+  bottom: -370px;
+  right: 200px;
+  word-wrap: break-word;
+}
