@@ -100,6 +100,21 @@
 #hikingtext {
   position: absolute;
   bottom: -370px;
-  right: 200px;
-  word-wrap: break-word;
+  right: 50px;
+  
 }
+
+#mountains {
+  position: absolute;
+  bottom: -450px;
+  right: 500px;
+  
+}
+
+#list {
+  position: absolute;
+  bottom: -680px;
+  right: 610px;
+  
+}
+
