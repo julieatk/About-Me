@@ -10,6 +10,8 @@
   padding-top: 20px;
 }
 
+/* https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp */
+
 .sidebar a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
@@ -124,5 +126,17 @@
   bottom: 700px;
   right: 100px;
   
+}
+
+#interest {
+  position: absolute;
+  bottom: -1100px;
+  right: 400px;
+}
+
+#interesttext {
+  position: absolute;
+  bottom: -1180px;
+  right: 90px;
 }
 
